@@ -14,6 +14,7 @@ import time
 
 
 """　メモ　20201220
+# testtest 2021-06-16
 
 共焦点光学系のOTFを計算するためのスクリプト。
 「Phase control and measurement in digital microscopy」 Matthew Raphael Arnison および
